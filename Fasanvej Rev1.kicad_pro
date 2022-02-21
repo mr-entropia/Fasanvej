@@ -328,6 +328,10 @@
     [
       "746b465e-3892-4187-a17e-271db690d9fe",
       "Power"
+    ],
+    [
+      "ee2ff862-f1db-41b2-a870-011b15fe7860",
+      "USB hub"
     ]
   ],
   "text_variables": {}
