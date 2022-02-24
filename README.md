@@ -4,7 +4,7 @@ A hand-held Linux computer, inspired by Brian Benchoff's similar project
 ## Features
 - Allwinner F1C200s SoC, an ARM926EJ-S running at 500 MHz
 - 64 MB DDR DRAM, embedded in the SoC
-- 3.2" TFT LCD
+- 3.2" TFT LCD, 320x240 resolution
 - QWERTY keyboard (implemented using a SAMD21 MCU, connects via USB)
 - Game mode switch which alters key mapping
 - USB hub with one external USB A connector
