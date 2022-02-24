@@ -12,7 +12,7 @@ A hand-held Linux computer, inspired by Brian Benchoff's similar project
 - Mono speaker
 - microSD slot
 - SPI NOR FLASH
-- Powered by two 1P2S 18650 li-ion batteries
+- Powered by 2P1S 18650 li-ion battery
 - Built-in charger using a USB C type connector
 - High efficiency DC-DC converters to power everything
 
