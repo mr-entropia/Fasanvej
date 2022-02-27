@@ -133,6 +133,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 3.0,
+          "drill": 1.5
         }
       ],
       "zones_allow_external_fillets": false,
@@ -388,8 +392,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Fasanvej Rev1.step",
+      "vrml": "New folder/Fasanvej Rev1.wrl"
     },
     "page_layout_descr_file": ""
   },
