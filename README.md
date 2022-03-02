@@ -18,7 +18,7 @@ A hand-held Linux computer, inspired by Brian Benchoff's similar project
 
 ## Task list
 - [x] Finalize schematics
-- [ ] Place components on PCB
+- [x] Place components on PCB
 - [ ] Route PCB
 - [ ] Design a 3D-printable enclosure
 - [ ] Source parts
