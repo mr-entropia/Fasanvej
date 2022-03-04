@@ -20,7 +20,7 @@ A hand-held Linux computer, inspired by Brian Benchoff's similar project
 - [x] Finalize schematics
 - [x] Place components on PCB
 - [ ] Route PCB
-- [ ] Design a 3D-printable enclosure
+- [x] Design a 3D-printable enclosure
 - [ ] Source parts
 - [ ] Build prototype
 - [ ] Make software work
