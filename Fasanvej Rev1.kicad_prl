@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -72,18 +72,6 @@
     "files": [
       {
         "name": "Fasanvej Rev1.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 3456,
-          "size_y": 1416
-        }
-      },
-      {
-        "name": "Fasanvej Rev1.kicad_sch",
         "open": false,
         "window": {
           "display": 1,

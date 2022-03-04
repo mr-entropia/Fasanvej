@@ -145,6 +145,10 @@
         {
           "diameter": 1.0,
           "drill": 0.5
+        },
+        {
+          "diameter": 2.0,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false,
@@ -400,7 +404,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Fasanvej Rev1.step",
+      "step": "Mechanical/KiCad/Rev1_4-3-22/Fasanvej Rev1_4-3-22.step",
       "vrml": "New folder/Fasanvej Rev1.wrl"
     },
     "page_layout_descr_file": ""
